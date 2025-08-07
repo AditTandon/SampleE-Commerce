@@ -1,4 +1,4 @@
-# SampleE-Commerce
+# Sample E-Commerce
 
 The aim of this project is to build a sample e-commerce website (modelling a Lego shop) using Spring/Spring Boot, React & MySQL. 
 
